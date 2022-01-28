@@ -1,6 +1,9 @@
 body {
     bodyground-color: $D3DEDC;
 }
+img:hover {
+    background-color: black;
+}
 hr {
     border-style: none;
     border-top-style: dotted;
